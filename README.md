@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BCyberium
-- 👀 I’m interested in machine learning and causal inference
-- 🌱 I’m currently learning mathematics and statistics
-- 📫 How to reach me cyberium@qq.com
+- 👋 Hi, I’m @BCyberium;
+- 👀 I’m interested in mathematics and statistics;
+- 🌱 I’m currently learning causal inference and semiparametric theory.
+
 
 <!---
 BCyberium/BCyberium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
