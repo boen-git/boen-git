@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BCyberium;
-- 👀 I’m interested in mathematics and statistics;
+- 👋 Hi, I’m Boen;
+- 👀 I’m interested in statistics;
 - 🌱 I’m currently learning causal inference and semiparametric theory.
 
 
